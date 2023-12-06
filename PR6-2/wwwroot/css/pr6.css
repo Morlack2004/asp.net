@@ -1,0 +1,20 @@
+﻿
+            .display-4{
+                position: relative;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                color: #fff;
+                font-size:20px;
+                font-family:Arial;
+            }
+            .text-center {
+                position: relative;
+                width: 30em;
+                height: 20em;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #0094ff;
+                color: #fff;
+            }

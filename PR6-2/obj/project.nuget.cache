@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4ZpeEGAH6QPY92aK5wxbYG2I/Uw43njxvpSiRMazFxDfejLDFTjhd9b6NX7aBEEPSaO4SU3nT1NcdBEIm8Skg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tolst\\source\\repos\\PR6-2\\PR6-2\\PR6-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolst\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
