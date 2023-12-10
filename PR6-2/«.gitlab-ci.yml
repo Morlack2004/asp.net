@@ -1,0 +1,10 @@
+stages :
+ - test
+
+
+ test-jobs:
+ stage : test
+ script :
+ - echo "Hello world"
+ - echo "Du du du du du du"
+ - echo "this its Elon Mask"
